@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = antonia.lappin@gmx.de
+	name = Antonia Lappin
